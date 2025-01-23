@@ -1,2 +1,2 @@
 # Mapeamento-de-IEDs
-Projeto criado para simular um mapeamento de rede de uma subestação automatizada a partir das coleta de informações disponibilizadas pelos IEDs.
+Project created to simulate a network mapping of an automated substation based on the collection of information made available by IEDs.
