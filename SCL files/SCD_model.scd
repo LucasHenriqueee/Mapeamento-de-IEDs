@@ -11,35 +11,35 @@
         <Address>
           <P type="IP">192.168.1.10</P>
           <P type="IP-SUBNET">255.255.255.0</P>
-          <P type="IP-GATEWAY">0.0.0.0</P>
+          <P type="IP-GATEWAY">192.168.1.254</P>
         </Address>
       </ConnectedAP>
       <ConnectedAP apName="AP1" iedName="TEMPLATE_IED_2">
         <Address>
           <P type="IP">192.168.1.20</P>
           <P type="IP-SUBNET">255.255.255.0</P>
-          <P type="IP-GATEWAY">0.0.0.0</P>
+          <P type="IP-GATEWAY">192.168.1.254</P>
         </Address>
       </ConnectedAP>
       <ConnectedAP apName="AP1" iedName="TEMPLATE_IED_3">
         <Address>
           <P type="IP">192.168.1.30</P>
           <P type="IP-SUBNET">255.255.255.0</P>
-          <P type="IP-GATEWAY">0.0.0.0</P>
+          <P type="IP-GATEWAY">192.168.1.254</P>
         </Address>
       </ConnectedAP>
       <ConnectedAP apName="AP1" iedName="TEMPLATE_IED_4">
         <Address>
           <P type="IP">192.168.1.40</P>
           <P type="IP-SUBNET">255.255.255.0</P>
-          <P type="IP-GATEWAY">0.0.0.0</P>
+          <P type="IP-GATEWAY">192.168.1.254</P>
         </Address>
       </ConnectedAP>
       <ConnectedAP apName="AP1" iedName="TEMPLATE_IED_5">
         <Address>
           <P type="IP">192.168.1.50</P>
           <P type="IP-SUBNET">255.255.255.0</P>
-          <P type="IP-GATEWAY">0.0.0.0</P>
+          <P type="IP-GATEWAY">192.168.1.254</P>
         </Address>
       </ConnectedAP>
     </SubNetwork>
@@ -13858,7 +13858,7 @@
       <EnumVal ord="-15">f</EnumVal>
       <EnumVal ord="-12">p</EnumVal>
       <EnumVal ord="-9">n</EnumVal>
-      <EnumVal ord="-6">µ</EnumVal>
+      <EnumVal ord="-6">Âµ</EnumVal>
       <EnumVal ord="-3">m</EnumVal>
       <EnumVal ord="-2">c</EnumVal>
       <EnumVal ord="-1">d</EnumVal>
@@ -13892,7 +13892,7 @@
       <EnumVal ord="11">sr</EnumVal>
       <EnumVal ord="21">Gy</EnumVal>
       <EnumVal ord="22">Bq</EnumVal>
-      <EnumVal ord="23">°C</EnumVal>
+      <EnumVal ord="23">Â°C</EnumVal>
       <EnumVal ord="24">Sv</EnumVal>
       <EnumVal ord="25">F</EnumVal>
       <EnumVal ord="26">C</EnumVal>
@@ -13909,15 +13909,15 @@
       <EnumVal ord="37">T</EnumVal>
       <EnumVal ord="38">W</EnumVal>
       <EnumVal ord="39">Pa</EnumVal>
-      <EnumVal ord="41">m²</EnumVal>
-      <EnumVal ord="42">m³</EnumVal>
+      <EnumVal ord="41">mÂ²</EnumVal>
+      <EnumVal ord="42">mÂ³</EnumVal>
       <EnumVal ord="43">m/s</EnumVal>
-      <EnumVal ord="44">m/s²</EnumVal>
-      <EnumVal ord="45">m³/s</EnumVal>
-      <EnumVal ord="46">m/m³</EnumVal>
+      <EnumVal ord="44">m/sÂ²</EnumVal>
+      <EnumVal ord="45">mÂ³/s</EnumVal>
+      <EnumVal ord="46">m/mÂ³</EnumVal>
       <EnumVal ord="47">M</EnumVal>
-      <EnumVal ord="48">kg/m³</EnumVal>
-      <EnumVal ord="49">m²/s</EnumVal>
+      <EnumVal ord="48">kg/mÂ³</EnumVal>
+      <EnumVal ord="49">mÂ²/s</EnumVal>
       <EnumVal ord="50">W/m K</EnumVal>
       <EnumVal ord="51">J/K</EnumVal>
       <EnumVal ord="52">ppm</EnumVal>
@@ -13929,10 +13929,10 @@
       <EnumVal ord="64">phi</EnumVal>
       <EnumVal ord="65">cos(phi)</EnumVal>
       <EnumVal ord="66">Vs</EnumVal>
-      <EnumVal ord="67">V²</EnumVal>
+      <EnumVal ord="67">VÂ²</EnumVal>
       <EnumVal ord="68">As</EnumVal>
-      <EnumVal ord="69">A²</EnumVal>
-      <EnumVal ord="70">A²t</EnumVal>
+      <EnumVal ord="69">AÂ²</EnumVal>
+      <EnumVal ord="70">AÂ²t</EnumVal>
       <EnumVal ord="71">VAh</EnumVal>
       <EnumVal ord="72">Wh</EnumVal>
       <EnumVal ord="73">VArh</EnumVal>
